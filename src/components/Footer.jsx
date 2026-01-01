@@ -57,12 +57,12 @@ const Footer = () => {
         <div className="grid grid-cols-1 xl:grid-cols-5 lg:grid-cols-3 sm:grid-cols-2 gap-10 mb-8">
           <div className="w-full">
             <Link to="/">
-              <h1 className="text-3xl font-semibold unbounded-font">
-                Stud <span className="text-[#006dca] unbounded-font">IQ</span>
+              <h1 className="text-amber-400 text-3xl font-semibold unbounded-font">
+                Larnin <span className="text-[##223A5E] unbounded-font">Tutorial</span>
               </h1>
             </Link>
             <p className="text-normal mt-4 font-inter text-[#404a60]">
-              StudIQ exceed all my expectations! The instructors were not only
+              Larnin Tutorial exceed all my expectations! The instructors were not only
               experts
             </p>
             <div className="footer-icons flex gap-3 mt-6">

@@ -58,7 +58,7 @@ const Footer = () => {
           <div className="w-full">
             <Link to="/">
               <h1 className="text-amber-400 text-3xl font-semibold unbounded-font">
-                Larnin <span className="text-[##223A5E] unbounded-font">Tutorial</span>
+                Larnin <span className="text-[#223A5E] unbounded-font">Tutorial</span>
               </h1>
             </Link>
             <p className="text-normal mt-4 font-inter text-[#404a60]">
